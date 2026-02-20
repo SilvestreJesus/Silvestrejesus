@@ -1,43 +1,29 @@
-# Hola, bienvenido a mi perfil 👋
-## Soy Silvestre Jesús Guadalupe Gutiérrez
+# Hello, welcome to my profile 👋
+## I'm Silvestre Jesús Guadalupe Gutiérrez
 
-Soy un desarrollador apasionado por la creación de soluciones tecnológicas integrales, con experiencia en el diseño de interfaces web, desarrollo de APIs y la integración de sistemas de hardware. Me enfoco en construir aplicaciones eficientes, escalables y orientadas a mejorar la experiencia del usuario.
+I am a developer passionate about creating comprehensive technological solutions, with experience in designing web interfaces, developing APIs, and integrating hardware systems. I focus on building efficient, scalable applications aimed at improving the user experience.
 
-### Tecnologías y Herramientas 
+### Technologies and Tools
 
-A lo largo de mis proyectos, he adquirido experiencia trabajando con las siguientes tecnologías:
+Throughout my projects, I have gained experience working with the following technologies:
 
 * **Frontend:** HTML5, CSS3, JavaScript, Angular, Tailwind CSS.
 * **Backend:** PHP, Laravel, Python.
-* **Bases de Datos:** PostgreSQL, MySQL, Redis, MongoDB.
-* **Herramientas y Hardware:** Arduino (R4), npm, Yarn, Vite, NetBeans, Git.
+* **Databases:** PostgreSQL, MySQL, Redis, MongoDB.
+* **Tools and Hardware:** Arduino (R4), npm, Yarn, Vite, NetBeans, Git.
 
 ---
 
-### Proyectos Destacados
+### Featured Projects
 
-* **Sistema de Gestión de Gimnasios**
-    Plataforma web para la administración integral de gimnasio de sus pagos. La interfaz de usuario fue desarrollada utilizando **Angular** y **Tailwind CSS** para un diseño responsivo y moderno, mientras que la lógica de negocio y la API REST fueron construidas con **Laravel**, utilizando **PostgreSQL** para la gestión robusta de la base de datos.
+* **Gym Management System**
+    Web platform for the comprehensive management of gym memberships and payments. The user interface was developed using **Angular** and **Tailwind CSS** for a responsive and modern design, while the business logic and RESTful API were built with **Laravel**, using **PostgreSQL** for robust database management.
 
-* **Monitoreo de Plantas en Tiempo Real**
-    Aplicación web enfocada en la telemetría de áreas verdes. El frontend fue implementado con **HTML, CSS y JavaScript** puro para optimizar el rendimiento. El backend está soportado por **PHP**, utilizando **Redis** como base de datos en memoria para procesar y compilar los datos en tiempo real de manera ultra rápida.
+* **Real-Time Plant Monitoring**
+    Web application focused on the telemetry of green areas. The frontend was implemented with pure **HTML, CSS, and JavaScript** to optimize performance. The backend is supported by **PHP**, using **Redis** as an in-memory database to process and compile data in real time at ultra-fast speeds.
 
-* **Hardware Asistivo para Accesibilidad en Museos**
-    Solución tecnológica diseñada para mejorar la accesibilidad visual y auditiva en entornos museísticos. El proyecto integra microcontroladores **Arduino R4** que procesan y reciben datos directamente desde una interfaz web interactiva construida con **HTML, CSS y JS**.
+* **Assistive Hardware for Museum Accessibility**
+    Technological solution designed to improve visual and auditory accessibility in museum environments. The project integrates **Arduino R4** microcontrollers that process and receive data directly from an interactive web interface built with **HTML, CSS, and JS**.
 
-* **Sistema de Recolección de Residuos**
-    Software de gestión logística para rutas de recolección de basura. Desarrollado en el entorno de **NetBeans**, integrando una base de datos relacional en **MySQL** 
-<!--
-**SilvestreJesus/Silvestrejesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Waste Collection System**
+    Logistics management software for garbage collection routes. Developed in the **NetBeans** environment, integrating a relational database in **MySQL**.
