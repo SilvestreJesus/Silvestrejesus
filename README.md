@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, welcome to my profile. My name is Silvestre Jesús Guadalupe Gutiérrez.
+# Occupations
+# Trabajos Realizados
 
 <!--
 **SilvestreJesus/Silvestrejesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
